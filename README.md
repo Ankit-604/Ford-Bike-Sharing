@@ -1,8 +1,10 @@
-# Ford-Bike-Sharing
+# Ford GoBike Trip Data Analysis
 
+## Project Overview
+This project provides a comprehensive data analysis of the Ford GoBike (Bay Wheels) trip data. The goal is to uncover behavioral patterns of users, identify peak usage times, and provide actionable business recommendations to improve fleet management and subscriber retention.
 
----
-
-### **💡 Tips for this README:**
-*   **The "Why":** By clearly explaining *why* the data is not in the repo (file size limits) and *how* to set it up, you show the evaluator that you understand real-world data management.
-*   **Professionalism:** This structure is what hiring managers look for in a GitHub portfolio—it’s clean, well-documented, and demonstrates that your code is "production-ready."
+## Project Structure
+```text
+├── data/                   # Directory containing the 12 CSV trip data files
+├── Ford_Bike_Sharing_Projec.ipynb 
+└── README.md               
